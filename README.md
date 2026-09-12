@@ -2,7 +2,7 @@
 <h3 align="center">CS @ Georgia Tech (Intelligence / Info-Internetworks)</h3>
 
 - My work ranges from:
-  - **Georgia Tech VIP — AI Makerspace Nexus**: wiring a Grounding DINO + SAM2 pipeline to match the same object and hand across head-mounted and third-person views on Ego-Exo4D, benchmarked against published baselines and using the wearer's IMU as a corroboration signal to flag where vision-only matching breaks down.
+  - <a href="https://vip.gatech.edu/teams/entry/1275/" target="blank">**Georgia Tech VIP — AI Makerspace Nexus**</a>: wiring a Grounding DINO + SAM2 pipeline to match the same object and hand across head-mounted and third-person views on Ego-Exo4D, benchmarked against published baselines and using the wearer's IMU as a corroboration signal to flag where vision-only matching breaks down.
   - <a href="https://critique.gatech.edu/" target="blank">**Course Critique**</a> (Georgia Tech SGA): shipping features to the grade distribution and course analytics platform used by 20,000+ Georgia Tech students each semester.
   - **Aceworks — Autonomous Driving** (Internship): hardware-in-the-loop CI on Jetson AGX Orin that flashes real ECU firmware and re-validates every vehicle model, cutting a multi-day manual cycle to 8 minutes.
       - Also built **Acenews**: a weekly tech newsletter curating mobility and industry news personalized per employee alongside company updates, owning the data pipeline and send automation end-to-end.
